@@ -1,0 +1,14 @@
+service: "spectre-service"
+usecase: "screenhost-based-browser-testing"
+segment: "core-experience"
+vertical: "as24"
+owner: "#AS24-CXP-Quality-Engineering-ds@scout24.com"
+team: "quality-engineeering"
+public_urls:
+  - https://spectre-service.infinity.eu-west-1.s24cloud.net
+criticality: "bronze"
+confidentiality: "company-internal"
+integrity: "non-critical"
+availability: "non-critical"
+data_protection_relevant: no
+repository_url: "https://github.com/AutoScout24/spectre-service"
